@@ -74,7 +74,7 @@ if (clientID && clientSecret) {
             {
                 host: "lavalink.techpoint.world",
                 port: 80,
-                password: "techpoint"
+                password: "n/null"
             },
         ],
         send(id, payload) {
